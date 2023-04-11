@@ -6,7 +6,7 @@ import jakarta.persistence.*;
 @Entity
 public class Delivery {
 
-
+    // second commit
     @Id@GeneratedValue
     @Column(name = "DELIVERY_ID")
     private Long id;
